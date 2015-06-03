@@ -27,8 +27,6 @@ Just create an issue in this repository with describing the topic you would like
 
 Create a repo and upload all stuff there (slides, demo, code, etc.). Drop us a line (comment/issue) that it is ready to be forked.
 
-----------
-
 > ####Code of Conduct
 
 > We Stand for a Welcoming Community. At our meetups we encourage respectful smart conversations that help improvement and inspire innovation. Sexism, racism, and being an asshole in general is not appreciated. If you do so, get prepared to be challenged by meetup members, who will probably ask what's wrong with you.
