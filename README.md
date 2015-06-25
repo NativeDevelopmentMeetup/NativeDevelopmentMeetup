@@ -11,6 +11,10 @@ Development for a specific platform using it's native technologies. E.g. Windows
 
 A place where you can find out how others do the technology. A place for getting to know each other. We are actually a community! :)
 
+###Past events
+
+####**[June, 2015](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/June.md)**
+
 ###How does an event look like?
 
 Talks are 20 minutes long, the structure to be followed:
