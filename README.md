@@ -19,7 +19,7 @@ A place where you can find out how others do the technology. A place for getting
 
 ###How does an event look like?
 
-Talks are 20 minutes long, the structure to be followed:
+Talks are 20 minutes long, the ideal structure to be followed:
 
 1. beginner level talk
 2. expert stuff
