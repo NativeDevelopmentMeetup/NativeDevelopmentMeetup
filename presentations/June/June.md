@@ -24,7 +24,7 @@ Reactive Extensions built upon the observer pattern to process data/event sequen
 
 Slides: [ReactiveX.pdf](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/June/ReactiveX.PDF)
 
-Code: [RxAsyncConsole](https://github.com/silverforge/RxAsyncConsole)
+Code: [RxAsyncConsole](https://github.com/silverforge/RxAsyncConsole),
 [TwitterClient](https://github.com/silverforge/TwitterClient)
 
 3
