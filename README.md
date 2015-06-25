@@ -1,5 +1,7 @@
 # Native Development Meetup
 
+###[@nativedevmeetup](https://twitter.com/nativedevmeetup)
+
 Welcome to our meetup's GitHub page. If you'd like to attend to the next event, RSVP on our [meetup.com page](http://www.meetup.com/Native-Development-Meetup/).
 
 ----------
@@ -11,9 +13,13 @@ Development for a specific platform using it's native technologies. E.g. Windows
 
 A place where you can find out how others do the technology. A place for getting to know each other. We are actually a community! :)
 
+###Past events
+
+####**[June, 2015](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/June/June.md)**
+
 ###How does an event look like?
 
-Talks are 20 minutes long, the structure to be followed:
+Talks are 20 minutes long, the ideal structure to be followed:
 
 1. beginner level talk
 2. expert stuff
