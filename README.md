@@ -1,6 +1,6 @@
 # Native Development Meetup
 
-##[@nativedevmeetup](https://twitter.com/nativedevmeetup)
+###[@nativedevmeetup](https://twitter.com/nativedevmeetup)
 
 Welcome to our meetup's GitHub page. If you'd like to attend to the next event, RSVP on our [meetup.com page](http://www.meetup.com/Native-Development-Meetup/).
 
