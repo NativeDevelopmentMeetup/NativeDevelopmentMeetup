@@ -4,6 +4,7 @@ Info
 It was our first meetup with the new organizer team.
 
 Location: [Prezi](https://www.google.hu/maps/place/Prezi/@47.5057092,19.0566685,15z)
+
 Meetup: [Native Dev Meetup June](http://www.meetup.com/Native-Development-Meetup/events/223122693/)
 
 1
