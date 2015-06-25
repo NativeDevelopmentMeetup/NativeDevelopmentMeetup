@@ -7,6 +7,8 @@ Location: [Prezi](https://www.google.hu/maps/place/Prezi/@47.5057092,19.0566685,
 
 Meetup: [Native Dev Meetup June](http://www.meetup.com/Native-Development-Meetup/events/223122693/)
 
+Video: [on our YouTube channel](https://www.youtube.com/watch?v=q-N772BJftc)
+
 1
 ---
 **Péter Bálint, VIPER architecture** 
