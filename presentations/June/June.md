@@ -7,7 +7,7 @@ Location: [Prezi](https://www.google.hu/maps/place/Prezi/@47.5057092,19.0566685,
 
 Meetup: [Native Dev Meetup June](http://www.meetup.com/Native-Development-Meetup/events/223122693/)
 
-Video: [on our YouTube channel](https://www.youtube.com/watch?v=q-N772BJftc)
+Video: [on Ustream](http://www.ustream.tv/recorded/64624506)
 
 1
 ---
@@ -22,9 +22,9 @@ Slides: [VIPER.pdf](https://github.com/NativeDevelopmentMeetup/NativeDevelopment
 **János Murvai-Gaál (Epam), ReactiveX & Rx.NET** 
 Reactive Extensions built upon the observer pattern to process data/event sequence asynchronously which popularity is growing nowadays not only for .net devs but for JavaScript, Java, Android, Scala, Python, etc. They used this library on several projects successfully so he'd like to share his experience and some samples on this talk. He will cover topics like data push model, observer pattern at a glance, cold/hot observables, ObserveOn/SubscribeOn, Rx samples and how to process huge amount of data arriving from sensors.
 
-Slides: [ReactiveX](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/June/ReactiveX.PDF)
+Slides: [ReactiveX.pdf](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/June/ReactiveX.PDF)
 
-Code: [RxAsyncConsole](https://github.com/silverforge/RxAsyncConsole)
+Code: [RxAsyncConsole](https://github.com/silverforge/RxAsyncConsole),
 [TwitterClient](https://github.com/silverforge/TwitterClient)
 
 3
