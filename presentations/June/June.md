@@ -33,4 +33,4 @@ Code: [RxAsyncConsole](https://github.com/silverforge/RxAsyncConsole),
 **Csaba Szigeti (LogMeIn), join.me for Apple Watch** 
 They have recently added Apple Watch support to the join.me iOS app. He would like to concentrate on some of the real life problems instead of the basics and share some ready-to-apply solutions bundled with them. He would like to help us avoid a lot of headaches and head-scratching and tell us how to save a lot of time. 
 
-Slides: [AppleWatch.pdf]((https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/June/AppleWatch.pdf)
+Slides: [AppleWatch.pdf](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/June/AppleWatch.pdf)
