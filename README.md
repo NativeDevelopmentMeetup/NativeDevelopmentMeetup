@@ -16,10 +16,11 @@ A place where you can find out how others do the technology. A place for getting
 ###Past events
 
 ####**[June, 2015](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/June/June.md)**
+####**[September, 2015](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/September/September.md)**
 
 ###How does an event look like?
 
-Talks are 20 minutes long, the ideal structure to be followed:
+Talks are 15 minutes long, the ideal structure to be followed:
 
 1. beginner level talk
 2. expert stuff
