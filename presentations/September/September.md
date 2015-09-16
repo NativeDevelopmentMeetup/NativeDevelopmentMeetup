@@ -21,6 +21,7 @@ As the Android 6.0 release draws near we need to prepare our applications for th
 This talk will wrap up the development of an Android app that facilitates WebRTC, OpenCV and other various technologies in order to provide a powerful end-user support tool.
 
 Intro about the app: https://www.logmeinrescue.com/features/lens
+Slides: [Case study-Development of a WebRTC enhanced mobile solution.pdf](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/September/Case study-Development of a WebRTC enhanced mobile solution.pdf)
 
 3
 ---
