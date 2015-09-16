@@ -35,3 +35,4 @@ What could we improve?
 One thing for sure: the Developer Experience! I believe in simplicity and I’m curious how far we can push it using a state of the art language.
 
 Slides: [VinceRP.pdf](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/September/VinceRP.pdf)
+Twitter: [bvic23](https://twitter.com/bvic23)
