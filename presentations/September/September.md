@@ -15,7 +15,7 @@ Video: [on YouTube](https://www.youtube.com/watch?v=4rHyyEkWJMo)
 
 As the Android 6.0 release draws near we need to prepare our applications for the new platform. There are couple of new framework possibilities that could render our application to an unintended behaviour or even crash it easily. My talk will focus on use cases and implementation best practices rather than feature introductions. We’ll touch the new Permission model and framework, Doze, App Standby and the Auto backup functionality.
 
-Slides: coming soon!
+Slides: [Marshmallow.pdf](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/September/Marshmallow.pdf)
 
 2
 ---
