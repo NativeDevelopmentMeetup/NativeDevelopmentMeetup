@@ -7,7 +7,7 @@ Location: [Prezi](https://www.google.hu/maps/place/Prezi/@47.5057128,19.0544798,
 
 Meetup: [Native Dev Meetup October](http://www.meetup.com/Native-Development-Meetup/events/226035780/)
 
-Video: [on YouTube](https://www.youtube.com/watch?v=4rHyyEkWJMo)
+Video: [on Ustream](http://www.ustream.tv/channel/FqzmBmt5NRB)
 
 1
 ---
