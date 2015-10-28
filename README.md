@@ -17,6 +17,7 @@ A place where you can find out how others do the technology. A place for getting
 
 ####**[June, 2015](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/June/June.md)**
 ####**[September, 2015](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/September/September.md)**
+####**[October, 2015](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/October/October.md)**
 
 ###How does an event look like?
 
