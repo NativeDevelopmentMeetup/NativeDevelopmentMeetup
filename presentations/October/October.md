@@ -1,8 +1,6 @@
 Info
 ===========
 
-It was the first meetup after the summer break.
-
 Location: [Prezi](https://www.google.hu/maps/place/Prezi/@47.5057128,19.0544798,17z/data=!3m1!4b1!4m2!3m1!1s0x4741dc6cd68d093f:0xed903de1611b1881)
 
 Meetup: [Native Dev Meetup October](http://www.meetup.com/Native-Development-Meetup/events/226035780/)
