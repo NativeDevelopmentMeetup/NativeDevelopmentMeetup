@@ -38,6 +38,7 @@ He will cover the following topics besides the core idea of react native:
 - extensibility
 
 Slides: coming soon
+
 Twitter: [@Marceeex](https://twitter.com/Marceeex)
 
 3
@@ -56,4 +57,5 @@ Main points:
 - Future plans
 
 Slides: [Bitrise.pdf](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/October/Bitrise.pdf)
+
 Twitter: [@ViktorBenei](https://twitter.com/ViktorBenei)
