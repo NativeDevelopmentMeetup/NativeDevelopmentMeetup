@@ -57,5 +57,5 @@ Main points:
 - How our CLI and the Website works together
 - Future plans
 
-Slides: [Bitrise.pdf]()
+Slides: [Bitrise.pdf](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/October/Bitrise.pdf)
 Twitter: [@ViktorBenei](https://twitter.com/ViktorBenei)
