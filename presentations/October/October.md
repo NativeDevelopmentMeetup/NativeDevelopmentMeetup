@@ -36,7 +36,7 @@ He will cover the following topics besides the core idea of react native:
 - when/why to use it  
 - what is supported in the current version  
 - extensibility
-React Native.pdf
+
 Slides: [React Native.pdf](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/October/React Native.pdf)
 
 Twitter: [@Marceeex](https://twitter.com/Marceeex)
