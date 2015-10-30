@@ -20,7 +20,7 @@ Agenda:
 - Handling subscriptions  
 - Testing observables
 
-Slides: coming soon
+Slides: [RxJava.pdf](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/October/RxJava.pdf)
 
 2
 ---
