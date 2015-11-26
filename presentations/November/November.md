@@ -1,9 +1,9 @@
 Info
 ===========
 
-Location: [Skyscanner](https://www.google.hu/maps/place/Prezi/@47.5057128,19.0544798,17z/data=!3m1!4b1!4m2!3m1!1s0x4741dc6cd68d093f:0xed903de1611b1881)
+Location: [Skyscanner](https://www.google.hu/maps/place/Károly+krt.+6,+Budapest,+1052/@47.4946576,19.0571683,17z)
 
-Meetup: [Native Dev Meetup October](http://www.meetup.com/Native-Development-Meetup/events/226035780/)
+Meetup: [Native Dev Meetup November](http://www.meetup.com/Native-Development-Meetup/events/226695631/)
 
 Video: [on Youtube](https://www.youtube.com/watch?v=lw7DnxXk1qw)
 
