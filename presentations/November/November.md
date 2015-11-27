@@ -21,7 +21,7 @@ Agenda:
 - Testing / CI / QA / Release
 
 Slides: [OneCodeBase.pdf](https://github.com/NativeDevelopmentMeetup/NativeDevelopmentMeetup/blob/master/presentations/November/OneCodeBase.pdf)
-
+Twitter: [@davidkovaccs](https://twitter.com/davidkovaccs)
 2
 ---
 
