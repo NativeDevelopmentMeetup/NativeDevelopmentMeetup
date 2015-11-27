@@ -5,7 +5,7 @@ Location: [Skyscanner](https://www.google.hu/maps/place/Károly+krt.+6,+Budapest
 
 Meetup: [Native Dev Meetup November](http://www.meetup.com/Native-Development-Meetup/events/226695631/)
 
-Video: [on Youtube](https://www.youtube.com/watch?v=lw7DnxXk1qw)
+Video: [on Youtube](https://www.youtube.com/watch?v=C3F0p5h3NC8)
 
 1
 ---
