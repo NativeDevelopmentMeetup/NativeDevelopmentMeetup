@@ -22,11 +22,7 @@ A place where you can find out how others do the technology. A place for getting
 
 ###How does an event look like?
 
-Talks are 15 minutes long, the ideal structure to be followed:
-
-1. beginner level talk
-2. expert stuff
-3. mad science
+Talks are 15-20 minutes long, three at a time.
 
 ###Interested in talking at the meetup?
 
